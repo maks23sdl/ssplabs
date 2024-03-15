@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="trueText">Вы угадали</string>
+    <string name="falseText">Вы не угадали</string>
+</resources>
